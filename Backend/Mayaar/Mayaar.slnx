@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Mayaar.Api/Mayaar.Api.csproj" />
+  <Project Path="Mayaar.Application/Mayaar.Application.csproj" />
+  <Project Path="Mayaar.Domain/Mayaar.Domain.csproj" />
+  <Project Path="Mayaar.Infrastructure/Mayaar.Infrastructure.csproj" />
+</Solution>
