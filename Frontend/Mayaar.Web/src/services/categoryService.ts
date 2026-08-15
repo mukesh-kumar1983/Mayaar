@@ -3,7 +3,7 @@ import type {
     Category,
     CreateCategoryRequest,
     UpdateCategoryRequest,
-} from "../types/categoryTypes";
+} from "../types/category";
 
 export const categoryService = {
     async getAll(): Promise<Category[]> {
